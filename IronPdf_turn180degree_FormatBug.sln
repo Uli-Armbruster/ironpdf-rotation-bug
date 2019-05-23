@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IronPdf_turn180degree_FormatBug", "IronPdf_turn180degree_FormatBug.csproj", "{53D8BFC3-4D33-4C51-BA1C-DA92D05177A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53D8BFC3-4D33-4C51-BA1C-DA92D05177A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53D8BFC3-4D33-4C51-BA1C-DA92D05177A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53D8BFC3-4D33-4C51-BA1C-DA92D05177A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53D8BFC3-4D33-4C51-BA1C-DA92D05177A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7AB5CB2-8045-4A33-8C1E-63333E2BFA5A}
+	EndGlobalSection
+EndGlobal
